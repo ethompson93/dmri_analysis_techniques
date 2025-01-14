@@ -4,5 +4,6 @@
 
 **lectures**
 
-**exercises**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ethompson93/dmri_analysis_techniques/ball_and_stick.ipynb)
+** exercises
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ethompson93/dmri_analysis_techniques/blob/main/ball_and_stick.ipynb)
