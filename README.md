@@ -9,7 +9,7 @@
 The data you will need for the practicals is included in the [data](https://github.com/ethompson93/dmri_analysis_techniques/tree/main/data) folder. We will be using the [Fibercup phantom](https://tractometer.org/fibercup/home/) for all the practicals.
 
 ## Exercise 1 - The Diffusion Tensor
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)[need to add link once finalised]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ethompson93/dmri_analysis_techniques/blob/main/DTI_estimation.ipynb)
 
 In this exercise we fit the diffusion tensor model to phantom data using non-linear least squares. You will code up the model from scratch and visualise the results.
 
