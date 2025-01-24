@@ -3,7 +3,7 @@
 ### 🎓 Educational Bootcamp, 16th Feb 2025, Kyoto
 **Ellie Thompson and Anna Schroder, UCL Hawkes Institute**
 
-[TODO: add link to lectures once finished]
+[access the slides here](https://github.com/ethompson93/dmri_analysis_techniques/tree/main/slides_v1.pdf)
 
 ## 📂 Data
 The data you will need for the practicals is included in the [data](https://github.com/ethompson93/dmri_analysis_techniques/tree/main/data) folder. We will be using the [Fibercup phantom](https://tractometer.org/fibercup/home/) for all the practicals.
